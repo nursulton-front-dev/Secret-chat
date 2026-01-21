@@ -1,0 +1,5 @@
+{
+  "name": "DevWaves",
+  "description": "Генератор фонового шума для разработчиков со скрытым зашифрованным терминалом.",
+  "requestFramePermissions": []
+}
